@@ -1,4 +1,7 @@
 # SmartCalc-v1.0
+
+![SmartCalc v1.0](https://github.com/Garjelin/SmartCalc-v1.0/blob/main/SmartCalc-v1.0.png)
+
 ## Implementation of SmartCalc v1.0
 The SmartCalc v1.0 program must be implemented:
 
